@@ -1,0 +1,2 @@
+# CourseraMarketingStrategyProjectHotelIpsumCaseStudy
+Marketing Strategy Case Study Practice Project 
